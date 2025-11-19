@@ -9,7 +9,7 @@
 # 👨‍🎓 **About Me**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k3MWFobDI3cG1sM3Nma2lmeHdlYjZhZW04MWc1YTFxMGM0aHEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 </p>
 
 - 🎓 BTech Student at **Newton School of Technology**  
@@ -57,6 +57,10 @@
   <a href="mailto:sarthakj586@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k3MWFobDI3cG1sM3Nma2lmeHdlYjZhZW04MWc1YTFxMGM0aHEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="450" />
 </p>
 
 ---
