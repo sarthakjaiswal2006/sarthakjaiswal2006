@@ -1,4 +1,7 @@
-# 👋 Hi, I'm SARTHAK JAISWAL
+# 👋 Hi, I'm
+
+SARTHAK JAISWAL (https://media.giphy.com/media/your-animated-name.gif)
+
 
 #### BTech Student at Newton School of Technology | Computer Science AI & ML
 
