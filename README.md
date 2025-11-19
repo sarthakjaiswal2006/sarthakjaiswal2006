@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍🎓 **About Me**
+# 👨‍🎓 **About Me**
 
 - 🎓 BTech Student at **Newton School of Technology**  
 - 💻 Specializing in **Computer Science (AI & ML)**  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+# 🛠️ **Tech Stack**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 **GitHub Stats**
+# 📊 **GitHub Stats**
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakjaiswal2006&show_icons=true&theme=tokyonight" />
@@ -38,15 +38,15 @@
 
 ---
 
-## 🧠 **What I’m Learning Now**
+# 🧠 **What I’m Learning Now**
 - JavaScript (Advanced)
 - CSS Animations & UI/UX
-- Command Line (CLI)
-- Machine Learning fundamentals
+- Data Structures and Algorithms
+- Machine Learning Fundamentals
 
 ---
 
-## 🌐 **Connect With Me**
+# 🌐 **Connect With Me**
 <p>
   <a href="https://www.linkedin.com/in/sarthak-jaiswal-b5524236a/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45">
