@@ -29,11 +29,10 @@
 
 ---
 
-# 📊 **GitHub Stats**
+# 📊 **Leetcode Stats**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakjaiswal2006&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakjaiswal2006&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/sarthakjaiswal2006?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
