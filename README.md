@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/sarthakjaiswal2006">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E7FF&center=true&vCenter=true&width=800&lines=Hi+There+👋;I'm+Sarthak+Jaiswal;Computer+Science+AI+%26+ML+Student;Web+Developer+%7C+Python+Learner;Welcome+to+My+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00E7FF&center=true&vCenter=true&width=800&lines=Hi+There+👋;I'm+Sarthak+Jaiswal;Computer+Science+AI+%26+ML+Student;Full+Stack+Developer;Welcome+to+My+GitHub!">
   </a>
 </h1>
 
