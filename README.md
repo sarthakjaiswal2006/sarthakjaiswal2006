@@ -9,7 +9,7 @@
 # 👨‍🎓 **About Me**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k3MWFobDI3cG1sM3Nma2lmeHdlYjZhZW04MWc1YTFxMGM0aHEyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="450" />
 </p>
 
 - 🎓 BTech Student at **Newton School of Technology**  
